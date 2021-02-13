@@ -35,7 +35,7 @@ Type `/sb` or `/slybars` in game access the config. The following commands are a
 * `reset` - To reset all settings to default
 
 While config-mode is enabled you may use the mousescroll wheel to configure the frame:
-*Mousescroll up/down for horizontal position. Hold shift for vertical position.
-*Hold control while scrolling to change the frame's width. 
-*Hold alt while scrolling to change energy bar's height.
-*Hold control and alt while scrolling to change combopoint frame's height.
+* Mousescroll up/down for horizontal position. Hold shift for vertical position.
+* Hold control while scrolling to change the frame's width. 
+* Hold alt while scrolling to change energy bar's height.
+* Hold control and alt while scrolling to change combopoint frame's height.

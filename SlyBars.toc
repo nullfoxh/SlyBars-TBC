@@ -1,0 +1,8 @@
+## Interface: 20400
+## Title: |cffa0f6aaSlyBars|r
+## Notes: A combopoint and energy tracker for WoW TBC 2.4.3
+## Author: null
+## Version: 1.0
+## SavedVariables: SBC
+
+SlyBars.lua
